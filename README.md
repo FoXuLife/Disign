@@ -1,6 +1,6 @@
 # Disign
 Сайт марафона:
-![Image alt](https://github.com/FoXuLife/World-railway/raw/main/Frame.png);
+![Image alt](https://github.com/FoXuLife/World-railway/blob/main/Frame.png);
 Посты для инсты:
 ![Image alt](https://github.com/FoXuLife/World-railway/raw/main/inst.png);
 Приложение для просмотра фильмов:
