@@ -1,4 +1,4 @@
-# Disign
+ Disign
 Сайт марафона:
 ![Image alt](https://github.com/FoXuLife/Disign/raw/main/Frame.png);
 Посты для инсты:
@@ -14,5 +14,5 @@
 Приложение погоды с обязательным использованием векторной графики:
 ![Image alt](https://github.com/FoXuLife/Disign/raw/main/Приложение.png);
 Небольшие наброски по сайту о Dota 2, делал для знакомого: 
-![Image alt](https://github.com/FoXuLife/Disign/raw/main/Dota 1.png);
-![Image alt](https://github.com/FoXuLife/Disign/raw/main/Dota 2.png);
+![Image alt](https://github.com/FoXuLife/Disign/raw/main/Dota%201.png);
+![Image alt](https://github.com/FoXuLife/Disign/raw/main/Dota%202.png);
